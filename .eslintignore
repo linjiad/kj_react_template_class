@@ -1,0 +1,4 @@
+/dist/*.js
+/config/*.js
+/node_modules/*.js
+/my_node/*.js

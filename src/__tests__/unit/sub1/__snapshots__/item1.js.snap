@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`item1组件 渲染正常 1`] = `
+<div>
+  sub1_item1
+  <input
+    data-test="input"
+    onChange={[Function]}
+    value=""
+  />
+</div>
+`;
